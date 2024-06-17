@@ -1,0 +1,23 @@
+body{
+    background-image: url("more-anime-wallpapers.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#Setclock{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#clock{
+    font-family: monospace;
+    font-size: 5.5rem;
+    backdrop-filter: blur(5px);
+    color: azure;
+    font-weight: bold;
+    text-align: center;
+}
